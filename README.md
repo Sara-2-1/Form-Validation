@@ -16,8 +16,9 @@ Students are expected to:
 **Expected Result:** Show validation errors for all required fields.
 
 📸 *Screenshot here*  
-![CASE 1]<img src=["https://github.com/user-attachments/assets/af2f6b79-2b66-4934-a33b-ad44b06e147f](https://github.com/user-attachments/assets/3ce376c9-e338-4179-a683-67662c51c431)" width="250">
-
+![CASE 1]<img src=["https://github.com/user-attachments/assets/af2f6b79-2b66-4934-a33b-ad44b06e147f" width="250">
+### Welcome Screen
+<img src="https://github.com/user-attachments/assets/af2f6b79-2b66-4934-a33b-ad44b06e147f" width="250">
 
 ---
 
