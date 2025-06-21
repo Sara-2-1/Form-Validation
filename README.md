@@ -6,7 +6,6 @@ Students are expected to:
 - Create a user form with input fields (Full Name, Email, Gender, Website, Comment).
 - Implement **server-side validation** using PHP.
 - Test the form using various input cases to ensure correctness.
-  ## ✅ Test Cases & Output
 
 
 ## ✅ Test Cases & Output
@@ -64,6 +63,11 @@ Students are expected to:
 📸 *Screenshot here*  
 ![CASE 6](
 <img src="https://github.com/user-attachments/assets/9e13efe5-11dd-44b6-a14f-5f52dc65e464" width="250">
+
+### 🌐 Web Form Validation (HTML, CSS, PHP)
+- Web browser
+- Local server (e.g., XAMPP or MAMP)
+- PHP 7 or later
 
 
 
