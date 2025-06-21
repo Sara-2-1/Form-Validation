@@ -17,7 +17,7 @@ Students are expected to:
 
 📸 *Screenshot here*  
 ![CASE 1]
-<img src="https://github.com/user-attachments/assets/af2f6b79-2b66-4934-a33b-ad44b06e147f" width="250">
+<img src="https://github.com/user-attachments/assets/df28f9b1-c986-464e-b0eb-e54185e8fd20" width="250">
 
 ### 🧪 CASE 2: Enter a number in "Full Name" field  
 **Test:** Input a numeric value in the Full Name field.  
@@ -26,7 +26,8 @@ Students are expected to:
 📸 *Screenshot here*  
 ![CASE 2](images/case2.png)
 
----
+---![case1](https://github.com/user-attachments/assets/df28f9b1-c986-464e-b0eb-e54185e8fd20)
+
 
 ### 🧪 CASE 3: Select two options in "Gender" field  
 **Test:** Try selecting more than one gender option (if possible).  
