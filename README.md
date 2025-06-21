@@ -15,7 +15,7 @@ Students are expected to:
 **Expected Result:** Show validation errors for all required fields.
 
 📸 *Screenshot here*  
-![CASE 1]
+
 <img src="https://github.com/user-attachments/assets/df28f9b1-c986-464e-b0eb-e54185e8fd20" width="250">
 
 ### 🧪 CASE 2: Enter a number in "Full Name" field  
@@ -23,7 +23,7 @@ Students are expected to:
 **Expected Result:** Validation error, name must be alphabetic.
 
 📸 *Screenshot here*  
-![CASE 2]
+
 <img src="https://github.com/user-attachments/assets/b7dc9ce1-fea1-4df9-ad8e-292bba4de39e" width="250">
 
 
@@ -32,7 +32,7 @@ Students are expected to:
 **Expected Result:** Only one option should be selectable (radio button); otherwise, validation error.
 
 📸 *Screenshot here*  
-![CASE 3]
+
 <img src="https://github.com/user-attachments/assets/0da40996-449d-4b08-9556-a1eb687fdb91" width="250">
 
 
@@ -41,7 +41,7 @@ Students are expected to:
 **Expected Result:** Validation error for incorrect email format.
 
 📸 *Screenshot here*  
-![CASE 4]
+
 <img src="hhttps://github.com/user-attachments/assets/fb67bd6b-5207-4a78-a742-6a2dd79276d9" width="250">
 
 
@@ -51,7 +51,7 @@ Students are expected to:
 **Expected Result:** URL validation error.
 
 📸 *Screenshot here*  
-![CASE 5]
+
 <img src="https://github.com/user-attachments/assets/f60cdf82-df33-4768-8856-38d750d29868" width="250">
 
 
@@ -61,7 +61,7 @@ Students are expected to:
 **Expected Result:** Acceptable if alphanumeric input is allowed, else show warning.
 
 📸 *Screenshot here*  
-![CASE 6](
+
 <img src="https://github.com/user-attachments/assets/9e13efe5-11dd-44b6-a14f-5f52dc65e464" width="250">
 
 ### 🌐 Web Form Validation (HTML, CSS, PHP)
