@@ -24,9 +24,8 @@ Students are expected to:
 **Expected Result:** Validation error, name must be alphabetic.
 
 📸 *Screenshot here*  
-![CASE 2](images/case2.png)
-
----![case1](https://github.com/user-attachments/assets/df28f9b1-c986-464e-b0eb-e54185e8fd20)
+![CASE 2]
+<img src="https://github.com/user-attachments/assets/b7dc9ce1-fea1-4df9-ad8e-292bba4de39e" width="250">
 
 
 ### 🧪 CASE 3: Select two options in "Gender" field  
@@ -34,35 +33,38 @@ Students are expected to:
 **Expected Result:** Only one option should be selectable (radio button); otherwise, validation error.
 
 📸 *Screenshot here*  
-![CASE 3](images/case3.png)
+![CASE 3]
+<img src="https://github.com/user-attachments/assets/0da40996-449d-4b08-9556-a1eb687fdb91" width="250">
 
----
 
 ### 🧪 CASE 4: Enter email without "@" symbol  
 **Test:** Input invalid email like `exampleemail.com`.  
 **Expected Result:** Validation error for incorrect email format.
 
 📸 *Screenshot here*  
-![CASE 4](images/case4.png)
+![CASE 4]
+<img src="hhttps://github.com/user-attachments/assets/fb67bd6b-5207-4a78-a742-6a2dd79276d9" width="250">
 
----
+
 
 ### 🧪 CASE 5: Enter URL without ".com" in Website field  
 **Test:** Input an invalid website (e.g., `http://mywebsite`) without `.com`.  
 **Expected Result:** URL validation error.
 
 📸 *Screenshot here*  
-![CASE 5](images/case5.png)
+![CASE 5]
+<img src="https://github.com/user-attachments/assets/f60cdf82-df33-4768-8856-38d750d29868" width="250">
 
----
+
 
 ### 🧪 CASE 6: Enter number and characters in "Comment" field  
 **Test:** Input alphanumeric comment like `Great123!`.  
 **Expected Result:** Acceptable if alphanumeric input is allowed, else show warning.
 
 📸 *Screenshot here*  
-![CASE 6](images/case6.png)
+![CASE 6](
+<img src="https://github.com/user-attachments/assets/9e13efe5-11dd-44b6-a14f-5f52dc65e464" width="250">
 
----
+
 
 ## 📁 Project Structure
