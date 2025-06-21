@@ -41,8 +41,7 @@ Students are expected to:
 **Expected Result:** Validation error for incorrect email format.
 
 📸 *Screenshot here*  
-
-<img src="hhttps://github.com/user-attachments/assets/fb67bd6b-5207-4a78-a742-6a2dd79276d9" width="250">
+<img src="https://github.com/user-attachments/assets/fb67bd6b-5207-4a78-a742-6a2dd79276d9" width="250">
 
 
 
